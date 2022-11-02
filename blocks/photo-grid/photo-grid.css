@@ -1,0 +1,7 @@
+.photo-grid {
+  width: 1184px;
+  height: 671px;
+  margin-right: auto;
+  margin-left: auto;
+  display: grid;
+}
