@@ -2,8 +2,5 @@
   /* __image */
   width: 460px;
   height: 460px;
-
-  background: url(../../../images/place-kosa.jpg);
   object-fit: cover;
-
 }

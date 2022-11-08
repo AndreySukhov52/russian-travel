@@ -1,7 +1,5 @@
 .places {
-  width: 984px;
-  height: 3392px;
-  padding-bottom: 92px;
-  margin-right: 148px;
-  margin-left: 148px;
+  max-width: 984px;
+  min-height: 3392px;
+  margin: 0 148px 92px;
 }

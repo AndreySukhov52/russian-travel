@@ -1,5 +1,7 @@
 .place__website_link {
   /* __link */
+  margin: 0;
+  padding: 0;
   width: 456px;
   height: 22px;
   font-family: 'Inter';
@@ -9,4 +11,5 @@
   line-height: 22px;
   /* identical to box height, or 122% */
   text-decoration-line: underline;
+  color: #FFFFFF;
 }
