@@ -3,8 +3,5 @@
 
   width: 1184px;
   height: 740px;
-  background: url(../../../images/cover-trains.jpg);
-  object-fit: cover;
-  z-index: 0;
-  opacity: 0.3;
+
 }

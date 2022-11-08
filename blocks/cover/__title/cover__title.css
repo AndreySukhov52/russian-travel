@@ -2,7 +2,7 @@
  /* __title */
   padding: 0;
   margin: 0;
-  width: 560px;
+  max-width: 560px;
   height: 152px;
   font-family: 'Inter';
   font-style: normal;
