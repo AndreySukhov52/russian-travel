@@ -3,7 +3,9 @@
   padding: 0;
   margin: 0;
   max-width: 560px;
-  height: 152px;
+  position: absolute;
+  top: 245px;
+  left: 312px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
