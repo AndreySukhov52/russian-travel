@@ -5,3 +5,10 @@
   min-height: 6875px;*/
   margin: 0 auto;
 }
+
+/*@media screen and (max-width: 1024px) {
+  .page__conteiner {
+    max-width: 1024px;
+    padding: 0 0 27px;
+  }
+}*/

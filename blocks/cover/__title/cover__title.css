@@ -14,5 +14,28 @@
   /* or 106% */
   text-align: center;
   z-index: 1;
+}
 
+@media screen and (max-width: 1024px) {
+  .cover__title{
+    top: 195px;
+    left: 232px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__title{
+    top: 115px;
+    left: 104px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__title{
+    max-width: 288px;
+    top: 33px;
+    left: 16px;
+    font-size: 32px;
+    line-height: 35px;
+  }
 }

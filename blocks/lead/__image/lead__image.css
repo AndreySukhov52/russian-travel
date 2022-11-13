@@ -12,3 +12,19 @@
     padding: 56px 0 8px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .lead__image {
+    max-width: 768px;
+    min-height: 480px;
+    padding: 56px 0 8px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__image {
+    max-width: 320px;
+    min-height: 200px;
+    padding: 40px 0 8px;
+  }
+}
