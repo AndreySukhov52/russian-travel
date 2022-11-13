@@ -22,7 +22,8 @@
   .footer {
     max-width: 186px;
 
-    display: block;
+    display: flex;
+    flex-direction: column;
     justify-content:left;
     padding: 0 16px 24px;
 
