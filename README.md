@@ -8,6 +8,6 @@
 
 **Проект**
 
-* [Ссылка на проект в github](https://github.com/yandex-praktikum/russian-travel/index.html)
+* [Ссылка на проект в github](https://github.com/AndreySukhov52/russian-travel.git)
 
 
