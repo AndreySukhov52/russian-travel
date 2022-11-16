@@ -1,46 +1,23 @@
 .lead__image {
-  max-width: 984px;
+  max-width: 100%;
   padding: 64px 0 8px;
   object-fit: cover;
-  box-sizing: content-box;
 }
 
-@media screen and (max-width: 1024px) {
+@media (max-width: 1024px) {
   .lead__image {
-    max-width: 928px;
-    
     padding: 56px 0 8px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
   .lead__image {
-    max-width: 768px;
-    
     padding: 56px 0 8px;
   }
 }
 
-@media screen and (max-width: 725px) {
+@media (max-width: 320px) {
   .lead__image {
-    max-width: 725px;
-    
-    padding: 56px 0 8px;
-  }
-}
-
-
-@media screen and (max-width: 425px) {
-  .lead__image {
-    max-width: 425px;
-    
-    padding: 56px 0 8px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .lead__image {
-    max-width: 300px;
     padding: 40px 0px 8px;
   }
 }

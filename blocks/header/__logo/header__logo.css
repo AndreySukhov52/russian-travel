@@ -1,15 +1,6 @@
 .header__logo {
-  
   max-width: 177px;
-  background-color:brown;
   box-sizing: content-box;
-}
-
-@media (max-width: 470px) {
-  .header__logo {
-    
-    
-  }
 }
 
 @media (max-width: 320px) {
