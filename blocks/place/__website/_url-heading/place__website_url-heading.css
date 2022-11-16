@@ -8,4 +8,5 @@
   line-height: 12px;
   /* identical to box height, or 100% */
   color: #AAAAAA;
+  max-width: 240px;
 }

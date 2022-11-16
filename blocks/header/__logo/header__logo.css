@@ -1,12 +1,20 @@
 .header__logo {
   
-  min-height: 52px;
+  max-width: 177px;
   background-color:brown;
+  box-sizing: content-box;
 }
 
-@media screen and (max-width: 320px) {
+@media (max-width: 470px) {
   .header__logo {
     
-    min-height: 42px;
+    
+  }
+}
+
+@media (max-width: 320px) {
+  .header__logo {
+    max-width: 142px;
+    
   }
 }

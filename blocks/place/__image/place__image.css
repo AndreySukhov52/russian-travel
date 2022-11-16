@@ -1,7 +1,7 @@
 .place__image {
   /* __image */
   max-width: 100%;
-  object-fit: cover;
+  object-fit:contain;
 }
 
 /*@media screen and (max-width: 1024px) {

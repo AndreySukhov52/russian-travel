@@ -9,9 +9,21 @@
   text-decoration-line: none;
   color: #FFFFFF;
   text-align: center;
+  max-width: 30px;
 }
 
-@media screen and (max-width: 320px) {
+.header__lang-link:first-child {
+  padding-left: 0;
+}
+
+@media (max-width: 470px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
+
+@media (max-width: 320px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
