@@ -12,10 +12,6 @@
   max-width: 30px;
 }
 
-.header__lang-link:first-child {
-  padding-left: 0;
-}
-
 @media (max-width: 470px) {
   .header__lang-link {
     font-size: 18px;

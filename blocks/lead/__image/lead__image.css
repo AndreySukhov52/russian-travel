@@ -1,7 +1,9 @@
 .lead__image {
   max-width: 100%;
+  display: block;
   padding: 64px 0 8px;
   object-fit: cover;
+  box-sizing: border-box;
 }
 
 @media (max-width: 1024px) {
