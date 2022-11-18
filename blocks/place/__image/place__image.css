@@ -1,5 +1,5 @@
 .place__image {
   /* __image */
   max-width: 100%;
-  object-fit:contain;
+  object-fit: cover;
 }

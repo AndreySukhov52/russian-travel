@@ -1,6 +1,7 @@
 .photo-grid {
   max-width: 1184px;
-  padding: 0 48px 92px;
+  padding: 0 48px 84px;
+  margin: 0;
   display: grid;
   grid-template-columns: repeat(4, minmax(220px, 284px));
   grid-template-rows: repeat(3, 1fr);
@@ -37,8 +38,8 @@
 @media (max-width: 320px) {
   .photo-grid {  
     padding: 0 16px 64px;
-    grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(12, 1fr);
+    grid-template-columns: repeat(1, 288px);
+    grid-template-rows: repeat(12, 216px);
     gap: 12px;
   }
 }
