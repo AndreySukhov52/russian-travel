@@ -1,11 +1,9 @@
 .header__logo {
   max-width: 177px;
-  box-sizing: content-box;
 }
 
 @media (max-width: 320px) {
   .header__logo {
-    max-width: 142px;
-    
+    max-width: 134px;
   }
 }
