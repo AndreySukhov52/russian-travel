@@ -5,7 +5,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 163%;
+  line-height: 29px;
   /* or 29px */
 }
 
@@ -16,7 +16,7 @@
 @media screen and (max-width: 1024px) {
   .place__paragraph {
     max-width: 100%;
-    padding: 0 0 27px;
+    padding: 0 0 25px;
   }
 }
 
@@ -25,6 +25,7 @@
     max-width: 100%;
     padding: 0 0 25px;
     font-size: 16px;
+    line-height: 26px;
   }
 }
 
@@ -33,5 +34,6 @@
     max-width: 100%;
     padding: 0 16px 25px;
     font-size: 16px;
+    line-height: 26px;
   }
 }

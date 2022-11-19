@@ -22,7 +22,7 @@
 @media (max-width: 768px) {
   .place {
     max-width: 768px;
-    grid-template-columns: 340px 1fr;
+    grid-template-columns: 1fr 352px;
     gap: 48px 28px;
     padding-bottom: 73px;
   }
@@ -40,7 +40,7 @@
 @media (max-width: 320px) {
   .place {
     max-width: 320px;
-    grid-template-columns: 320px;
+    grid-template-columns: 1fr;
     gap: 32px;
     padding-bottom: 50px;
   }
