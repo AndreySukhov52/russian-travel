@@ -8,11 +8,6 @@
 /* identical to box height, or 112% */
   color: #FFFFFF;
   text-decoration-line: none;
-  transition: opacity .3s ease;
-}
-
-.place__website_link:hover {
-  opacity: .8;
 }
 
 .footer__link:last-child {

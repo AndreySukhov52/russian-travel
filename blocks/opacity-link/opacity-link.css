@@ -1,0 +1,8 @@
+.opacity-link {
+    transition: opacity .3s ease;
+    cursor: url(../../images/Pointer.png), auto;
+}
+
+.opacity-link:hover {
+    opacity: .8;
+}

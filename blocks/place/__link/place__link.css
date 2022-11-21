@@ -8,10 +8,5 @@
   line-height: 22px;
   text-decoration-line: underline;
   color: #FFFFFF;
-  transition: opacity .3s ease;
   max-width: 240px;
-}
-
-.place__website_link:hover {
-  opacity: .8;
 }
